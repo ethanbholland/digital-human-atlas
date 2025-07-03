@@ -8,7 +8,7 @@ Although I am *not* an engineer, I track this space closely.
 The July 2024 **LivePortrait** demo sparked my curiosity about how quickly still-image animation was converging with full-body digital humans. This document began as personal notes.
 
 **Scope**  
-Core focus — face animation, lip-sync, depth/segmentation pipelines, image-to-3D, Gaussian-splat-based scene representation, audio-to-face, 3D Gaussian avatars, and related visual-speech synthesis.  
+Core focus = face animation, lip-sync, depth/segmentation pipelines, image-to-3D, Gaussian-splat-based scene representation, audio-to-face, 3D Gaussian avatars, and related visual-speech synthesis.  
 * Adjacent threads — convergence with embodied robotics vision, mulitimodality, and agent embodiment are welcome, though I maintain a separate robotics log separately at <https://ethanbholland.com/category/ai/robotics-embodiment/> and multimodality at <https://ethanbholland.com/category/ai/multimodal/>
 
 **Using this timeline**  
