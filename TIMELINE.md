@@ -1,7 +1,19 @@
 ## 2025
 
 ### June 2025
-
+- AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models
+https://anima-x.github.io/ 
+- [2506.15442] Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
+https://arxiv.org/abs/2506.15442 
+- UFM: A Simple Path towards Unified Dense Correspondence with Flow
+https://uniflowmatch.github.io/ 
+- VideoRefer VideoLLaMA3 - a Hugging Face Space by lixin4ever
+Other models can answer “what’s happening in the video” 
+This one can answer questions on objects, you can prompt point prompts to any object in a timestamp (like SAM2!) 
+It includes a separate object encoder on top of its image encoder
+https://huggingface.co/spaces/lixin4ever/VideoRefer-VideoLLaMA3 
+- Controllable and Expressive One-Shot Video Head Swapping
+https://humanaigc.github.io/SwapAnyHead/ 
 - HeyGen just dropped Voice Mirroring, it can clone anyone's voice emotion, tone and style PERFECTLY · <https://x.com/EHuanglu/status/1919696421625987220>
 - HeyGen AI Studio · <https://www.heygen.com/blog/introducing-ai-studio>
 - Introducing HunyuanVideo-Avatar, a model jointly developed by Tencent Hunyuan and Tencent Music, bringing photos to life. · <https://x.com/TencentHunyuan/status/1927575170710974560>
