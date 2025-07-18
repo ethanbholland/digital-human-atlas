@@ -1,6 +1,15 @@
 ## 2025
 
 ### June 2025
+- Veo 3 for Developers - Paige Bailey - YouTube
+https://www.youtube.com/watch?v=hlcAZ2lX_ZI 
+- 3DGH: 3D Head Generation with Composable Hair and Face 
+https://c-he.github.io/projects/3dgh/ 
+- Try on looks and discover your style with Doppl
+https://blog.google/technology/google-labs/doppl/ 
+- Higgsfield Soul
+Higgsfield's first high-aesthetic photo model
+https://higgsfield.ai/soul 
 - AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models
 https://anima-x.github.io/ 
 - [2506.15442] Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
