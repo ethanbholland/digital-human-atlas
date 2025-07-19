@@ -1,5 +1,29 @@
 ## 2025
 
+### July 2025
+- SnapMoGen: Human Motion Generation from Expressive Texts
+https://snap-research.github.io/SnapMoGen/ 
+- Try on looks and discover your style with Doppl
+https://blog.google/technology/google-labs/doppl/
+- Digital Salon: An AI and Physics-Driven Tool for 3D Hair Grooming and Simulation https://digital-salon.github.io/
+- GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering TL;DR: Video stabilization task with feed-forward 3DGS reconstruction, ensuring robustness to diverse motions, full-frame rendering and high geometry consistency. https://x.com/Almorgand/status/1940449877001183717
+- ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions https://arxiv.org/pdf/2507.10542
+- Introducing BlenderFusion: Reassemble your visual elements—objects, camera, and background—to compose a new visual narrative. Play the interactive demo: https://t.co/zJEZ4uhrwe 
+https://x.com/sanghyunwoo1219/status/1939730467206619560
+- VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis https://arxiv.org/pdf/2507.06060
+- FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution
+https://eyeline-research.github.io/FlashDepth/ 
+- Meta AI Seamless Interaction with Avatars
+Advancing AI research modeling of face-to-face dynamics, including expressive gestures, active listening, turn-taking and visual synchrony.
+https://ai.meta.com/research/seamless-interaction/ 
+- Modeling natural conversational dynamics with Seamless Interaction
+https://ai.meta.com/blog/seamless-interaction-natural-conversational-dynamics/ 
+- SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation
+https://lucaria-academy.github.io/SynMotion/
+- X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents
+https://byteaigc.github.io/X-Unimotion/ 
+
+
 ### June 2025
 - Veo 3 for Developers - Paige Bailey - YouTube
 https://www.youtube.com/watch?v=hlcAZ2lX_ZI 
