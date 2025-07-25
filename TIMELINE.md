@@ -1,6 +1,8 @@
 ## 2025
 
 ### July 2025
+- Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction
+https://jiahao-ma.github.io/puzzles/ 
 - SnapMoGen: Human Motion Generation from Expressive Texts
 https://snap-research.github.io/SnapMoGen/ 
 - Try on looks and discover your style with Doppl
