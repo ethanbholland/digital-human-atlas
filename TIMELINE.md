@@ -1,6 +1,12 @@
 ## 2025
 
 ### July 2025
+- SoulDance: Music-Aligned Holistic 3D Dance Generation via Hierarchical Motion Modeling
+https://xjli360.github.io/SoulDance/
+- StreamME: Simplify 3D Gaussian Avatar within Live Stream
+https://songluchuan.github.io/StreamME/ 
+- Runway on X: "Introducing Act-Two, our next-generation motion capture model with major improvements in generation quality and support for head, face, body and hand tracking. Act-Two only requires a driving performance video and reference character. 
+https://x.com/runwayml/status/1945189222542880909 
 - Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction
 https://jiahao-ma.github.io/puzzles/ 
 - SnapMoGen: Human Motion Generation from Expressive Texts
