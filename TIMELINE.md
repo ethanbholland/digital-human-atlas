@@ -1,6 +1,24 @@
 ## 2025
 
 ### July 2025
+- CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering
+https://clift-nvs.github.io/
+- Data-efficient and Accurate Vision Models from Synthetic Data
+https://microsoft.github.io/DAViD/ 
+- Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars https://research.nvidia.com/labs/dair/dream-lift-animate/
+- Tangentially related: How soon until AI can continuously fuse together all sensor data into a persistent 4D model of reality? https://x.com/bilawalsidhu/status/1947474834973131158
+- Tangentially related: Huge. Take any image (real or synthetic) and turn it into a multi-part 3D object using @Scenario_gg.  https://x.com/bilawalsidhu/status/1947673321014735099 
+- VoluMe: Authentic 3D Video Calls from Live Gaussian Splat Prediction
+https://microsoft.github.io/VoluMe/ 
+- Tangential: Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos"" TL;DR : Video diffusion model for dynamic novel-view synthesis trained in a self-supervised manner using only 2D videos. Novel-view synthesis as a structured inpainting task: (2/3)  https://x.com/Almorgand/status/1947265806288515448 
+- Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors
+https://dubbingforeveryone.github.io/ 
+- HairCUP: Hair Compositional Universal Prior for 3D Gaussian Avatars
+https://bjkim95.github.io/haircup/ 
+- MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second
+https://chenguolin.github.io/projects/MoVieS/
+- Mirage
+https://mirage.decart.ai/queue?gameId=camera
 - SoulDance: Music-Aligned Holistic 3D Dance Generation via Hierarchical Motion Modeling
 https://xjli360.github.io/SoulDance/
 - StreamME: Simplify 3D Gaussian Avatar within Live Stream
