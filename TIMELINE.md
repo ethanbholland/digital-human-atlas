@@ -1,6 +1,14 @@
 ## 2025
 
 ### July 2025
+- Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars
+https://tobias-kirschstein.github.io/avat3r/
+- ICCV Poster ATLAS: Decoupling Skeletal and Shape Parameters for Expressive Parametric Human Modeling
+https://iccv.thecvf.com/virtual/2025/poster/2270
+- [2502.13133] AV-Flow: Transforming Text to Audio-Visual Human-like Interactions
+https://arxiv.org/abs/2502.13133
+- DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework
+https://virtu-lab.github.io/ 
 - CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering
 https://clift-nvs.github.io/
 - Data-efficient and Accurate Vision Models from Synthetic Data
