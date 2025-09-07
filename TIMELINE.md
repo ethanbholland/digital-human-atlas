@@ -1,5 +1,16 @@
 ## 2025
 
+### August 2025
+- FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers https://fantasy-amap.github.io/fantasy-portrait/
+- Relightable Full-body Gaussian Codec Avatars https://neuralbodies.github.io/RFGCA/
+- RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer https://markson14.github.io/RAP/
+- HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis
+https://vcai.mpi-inf.mpg.de/projects/HumanOLAT/ 
+- Alexandre Morgand on X: ""Physically Controllable Relighting of Photographs" TLDR: Explicit control of light sources akin to CG pipelines; different types of light sources; self-supervised training methodology using differentiable rendering to train their neural renderer with real-world photograph.”
+https://x.com/Almorgand/status/1952757175144558966 
+- Alexandre Morgand on X: ""Cameras as Relative Positional Encoding" TLDR: comparison for conditioning transformers on cameras: token-level raymap, attention-level relative pose encodings, a (new) relative encoding Projective Positional Encoding -&gt; camera frustums, (int|ext)insics for relative pos encoding https://t.co/4ARQ3Ok6ID" / X
+https://x.com/Almorgand/status/1951331762463822212
+
 ### July 2025
 - Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars
 https://tobias-kirschstein.github.io/avat3r/
