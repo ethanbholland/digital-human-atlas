@@ -10,6 +10,12 @@ https://vcai.mpi-inf.mpg.de/projects/HumanOLAT/
 https://x.com/Almorgand/status/1952757175144558966 
 - Alexandre Morgand on X: ""Cameras as Relative Positional Encoding" TLDR: comparison for conditioning transformers on cameras: token-level raymap, attention-level relative pose encodings, a (new) relative encoding Projective Positional Encoding -&gt; camera frustums, (int|ext)insics for relative pos encoding https://t.co/4ARQ3Ok6ID" / X
 https://x.com/Almorgand/status/1951331762463822212
+- No Pose at All: Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views
+https://ranrhuang.github.io/spfsplat/ 
+- Meta × Niantic is a big deal. Quest gets Lightship-grade 3D mapping, spatial anchors, and VPS localization - plus primitives like object detection &amp; semantic segmentation. That’s the spatial computing stack shipped into the hands of devs today.  https://x.com/bilawalsidhu/status/1953822369622925607
+- LightSwitch: Multi-view Relighting with Material-guided Diffusion TL;DR: material-relighting diffusion framework; relights an arbitrary number of input images to a target lighting condition while incorporating cues from inferred intrinsic properties; (1/2)  https://x.com/Almorgand/status/1955655723985309967
+- TANGENT: Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control
+https://diffusecloc.github.io/website/ 
 
 ### July 2025
 - Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars
