@@ -1,6 +1,16 @@
 ## 2025
 
 ### August 2025
+- TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis
+https://freedomintelligence.github.io/talk-vid/ 
+- CONVERGENCE WITH ROBOTS: Masquerade: Learning from In-the-wild Human Videos using Data-Editing (so many of these simulation videos look like human avatar animations)
+https://masquerade-robot.github.io/ 
+- PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image
+https://mks0601.github.io/PERSONA/
+- Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization
+https://huggingface.co/papers/2508.14811 
+- Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning
+https://www.pair.toronto.edu/Adapt3R/
 - FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers https://fantasy-amap.github.io/fantasy-portrait/
 - Relightable Full-body Gaussian Codec Avatars https://neuralbodies.github.io/RFGCA/
 - RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer https://markson14.github.io/RAP/
