@@ -1,4 +1,39 @@
 ## 2025
+### October 2025
+- T2Bs: Text-to-Character Blendshapes via Video Generation
+https://snap-research.github.io/T2Bs/
+- One of those tangential AR/VR links that shows how various fields may converge
+P3-SAM: Native 3D Part Segmentation
+https://murcherful.github.io/P3-SAM/ 
+- UniGAHA: Audio-Driven Universal Gaussian Head Avatars
+https://kartik-teotia.github.io/UniGAHA/
+- Stable Video-Driven Portraits
+https://arxiv.org/pdf/2509.17476
+- Effect of Appearance and Animation Realism on the Perception of Emotionally Expressive Virtual Humans
+https://arxiv.org/abs/2509.17803 
+- WAN 2.2 Animate does some cool stuff with lighting and flame behavior🔥
+https://x.com/heyglif/status/1976259706214592747 
+https://glif.app/@OfficialStarterKit/glifs/cmfvfrsxj0000js04eko5bqui?utm_source=x&utm_medium=social&utm_campaign=oct2025 
+- With Synthesia 3.0, your videos don’t just play — they engage, respond, and act. Add your content → and create fully interactive AI-powered experiences in minutes. Video Agents, Realistic Avatars, Express Voice
+All generated and ready to interact from your first prompt.
+https://x.com/lax97981/status/1974742019420696588 
+- CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models
+https://github.com/felixtaubner/cap4d 
+- [2509.17748] ""I don't like my avatar"": Investigating Human Digital Doubles https://arxiv.org/abs/2509.17748
+- HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning
+https://phantom-video.github.io/HuMo/
+- Marching Neurons: Accurate Surface Extraction for Neural Implicit Shapes
+https://phermosilla.github.io/neurons/ 
+- Tangential: ByteDance/Sa2VA-InternVL3-14B · Hugging Face
+https://huggingface.co/ByteDance/Sa2VA-InternVL3-14B
+- Tangential: ROGR: Relightable 3D Objects using Generative Relighting
+https://tangjiapeng.github.io/ROGR/
+- MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics  - Changmin Lee, Jihyun Lee, Tae-Kyun Kim
+https://kaistchangmin.github.io/MPMAvatar/ 
+- Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures
+https://eyeline-labs.github.io/Virtually-Being/ 
+- Tangential: ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation
+https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers
 
 ### September 2025
 - [2508.19242] Autoregressive Universal Video Segmentation Model
