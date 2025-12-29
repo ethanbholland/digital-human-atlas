@@ -1,4 +1,32 @@
 ## 2025
+### November 2025
+- We present MotionStream — real-time, long-duration video generation that you can interactively control just by dragging your mouse. All videos here are raw, real-time screen captures without any post-processing. Model runs on a single H100 at 29 FPS and 0.4s latency.
+https://joonghyuk.com/motionstream-web/ 
+- Meta, Google, Apple - they're all building AI replicas that capture your face, expressions, movements, personality. This goes way beyond Face ID. They're basically creating a version of you that knows you better than you know yourself.
+https://x.com/bilawalsidhu/status/1985398951407722901 
+- Introducing Odyssey-2: instant, interactive AI video
+https://odyssey.ml/introducing-odyssey-2
+- SAM 2++: Tracking Anything at Any Granularity
+https://tracking-any-granularity.github.io/
+- Track Any Motions under Any Disturbances 
+https://zzk273.github.io/Any2Track/ 
+- PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing
+https://antoniooroz.github.io/PercHead/ 
+- PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing - YouTube 
+https://www.youtube.com/watch?v=4hFybgTk4kE
+- Instant Skinned Gaussian Avatars
+https://gaussian-vrm.github.io/ 
+- EdgeTAM, real-time segment tracker by Meta is now in @huggingface transformers with Apache-2.0 license 🔥 &gt; 22x faster than SAM2, processes 16 FPS on iPhone 15 Pro Max with no quantization &gt; supports single/multiple/refined point prompting, bounding box prompts  https://x.com/mervenoyann/status/1986785795424788812
+https://huggingface.co/spaces/merve/EdgeTAM
+- MotionStream: Real-Time Video Generation with Interactive Motion Controls
+https://joonghyuk.com/motionstream-web/ 
+- Bilawal Sidhu on X: "I genuinely think we’re on the cusp of a new type of creation engine. Feels less like prompting and more like puppeteering reality itself. MotionStream is a taste of what’s to come: https://t.co/qWbOPnQD9R" / X
+https://x.com/bilawalsidhu/status/1986877076839014462 
+- Tangentially: Super original work! What if you could match non-identical objects? (just accepted to WACV'26 congrats!)"" / X https://x.com/Almorgand/status/1988240870986953120 
+https://arxiv.org/abs/2403.08227
+- OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication https://humanaigc.github.io/omnitalker/
+- Tangential segmentation: SAM3 Video Segmentation - a Hugging Face Space by merve
+https://huggingface.co/spaces/merve/SAM3-video-segmentation 
 ### October 2025
 - T2Bs: Text-to-Character Blendshapes via Video Generation
 https://snap-research.github.io/T2Bs/
