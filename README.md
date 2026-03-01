@@ -9,7 +9,7 @@ The July 2024 **LivePortrait** demo sparked my curiosity about how quickly still
 
 **Scope**  
 Core focus = face animation, lip-sync, depth/segmentation pipelines, image-to-3D, Gaussian-splat-based scene representation, audio-to-face, 3D Gaussian avatars, and related visual-speech synthesis.  
-* Adjacent threads — convergence with embodied robotics vision, mulitimodality, and agent embodiment are welcome, though I maintain a separate robotics log separately at <https://ethanbholland.com/category/ai/robotics-embodiment/> and multimodality at <https://ethanbholland.com/category/ai/multimodal/>
+* Adjacent threads — convergence with embodied robotics vision, multimodality, and agent embodiment are welcome, though I maintain a separate robotics log separately at <https://ethanbholland.com/category/ai/robotics-embodiment/> and multimodality at <https://ethanbholland.com/category/ai/multimodal/>
 
 **Using this timeline**  
 Entries appear in **reverse chronological order** (newest first) under dated headings. Each line contains: **Title · link · brief one-liner**. Use your browser’s search to filter by keyword or year.
