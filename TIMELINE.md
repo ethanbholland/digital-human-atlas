@@ -1,4 +1,69 @@
+## 2026
+### January 2026
+- Alexandre Morgand on X: ""Orient Anything V2: Unifying Orientation and Rotation Understanding" TL;DR: "a unified spatial vision model for understanding orientation, symmetry, and relative rotation, achieves SOTA performance across 14 datasets" 
+https://x.com/Almorgand/status/2011457723465134286
+- Orient Anything
+https://orient-anythingv2.github.io/ 
+- ICo3D: An Interactive Conversational 3D Virtual Human
+https://ico3d.github.io/
+- ELITE: Efficient Gaussian Head Avatar from a Monocular Video via Learned Initialization and TEst-time Generative Adaptation
+https://kim-youwang.github.io/elite
+- 軸兄さん on X: "【誰でも簡単にAIで実写Vtuber動画を作る方法をまとめました】 本来、Vtuberって最低30万ぐらいお金がかかっちゃうんですが、1,000円もあれば初心者でも簡単に実写Vtuber動画を作れる時代になりました。 一年前まで破綻だらけだったのに、今もうここまで出来るなんてAI動画の進化がやばいです。"
+https://x.com/jjjContinue/status/2013464790866509976
+- Video Depth Propagation | Luigi Piccinelli
+https://lpiccinelli-eth.github.io/pub/velodepth/
+- Motion 3-to-4
+https://motion3-to-4.github.io/
+- D4RT: Unified, Fast 4D Scene Reconstruction & Tracking — Google DeepMind
+https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/
+- WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments
+https://wild-rayzer.cs.virginia.edu/
 ## 2025
+### December 2025
+- SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training
+https://y-zheng18.github.io/SplatPainter/
+- SPFSplatV2: Efficient Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views
+https://ranrhuang.github.io/spfsplatv2/
+- Alexandre Morgand on X: ""StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space" TLDR: diffusion-based; through viewpoint conditioning, w/o explicit depth or warping. canonical rectified space and conditioning guide generator to infer correspondences
+https://x.com/Almorgand/status/2000602000866619569
+- StereoSpace Project Page - a Hugging Face Space by prs-eth
+https://huggingface.co/spaces/prs-eth/stereospace_web
+- Qwen on X: "🎨 Qwen-Image-Layered is LIVE — native image decomposition, fully open-sourced! ✨ Why it stands out ✅ Photoshop-grade layering Physically isolated RGBA layers with true native editability ✅ Prompt-controlled structure Explicitly specify 3–10 layers — from coarse layouts to"
+https://x.com/Alibaba_Qwen/status/2002034611229229388
+- Qwen Image Layered
+https://qwen.ai/blog?id=qwen-image-layered
+- Bilawal Sidhu on X: "EgoX is really cool - generating immersive first-person view video from any third-person footage. If you can do this vision task well, you get endless egocentric training data for robotics. 
+https://x.com/bilawalsidhu/status/2000642584763335055
+- Alexandre Morgand on X: ""MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos" TL;DR: 3 learnable modules+lightweight IK stage: a Reference Prompt Encoder that distills per-joint queries from the asset’s skeleton, mesh, and rendered image set; 
+https://x.com/Almorgand/status/1999530563607122271
+- D4RT Efficiently Reconstructing Dynamic Scenes One 🎯 D4RT at a Time
+https://d4rt-paper.github.io/
+- Alexandre Morgand on X: ""Gaussian See, Gaussian Do: 3D Semantic Motion Transfer" TL;DR: extracts the semantic motion from a multi-view source video and applies it to a static target shape in a way that is semantically meaningful. 
+https://x.com/Almorgand/status/2001345313999852018
+- SEIIIRU😈動画生成AIを使う映像クリエイター on X: "V2V時代の幕開けです！📢 文字で指示する時代から動きで指示をする時代へ。 Kling AIのモーションコントロール機能を試しました。 この機能は、1.6のバージョンで使えていた機能ですが、今回から最新モデルの2.6で利用可能です。 
+The dawn of the V2V era is here! 📢  
+From the era of giving instructions with text to the era of giving instructions with motion.  
+I tried out Kling AI's motion control feature.
+This feature was available in version 1.6, but starting this time, it's now usable with the latest model 2.6.  
+Previously, it was listed lower down in the items, but now you can select it from the top tabs.  
+Alongside "Text to Video" and "Image to Video," there's now an added item called "Motion Control."
+This isn't just simple motion control—it's an all-in-one V2V that can mimic everything, from expressions to lip-sync.  
+For detailed usage instructions and explanations, there's a guide from the official source, so please check the reply section.
+https://x.com/seiiiiiiiiiiru/status/2001502678116110430
+- Virtually Being : Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures
+https://eyeline-labs.github.io/Virtually-Being/
+- Pose-Aware Dynamic 3D Reconstruction from Casual Videos
+https://pad3r.github.io/ 
+- FlexAvatar Learning Complete 3D Head Avatars with Partial Supervision
+https://tobias-kirschstein.github.io/flexavatar/
+- Animate Any Character in Any World
+https://snowflakewang.github.io/AniX/
+- Soul: Breathe Life into Digital Human for High-fidelity Long-term Multimodal Animation
+https://zhangzjn.github.io/projects/Soul/ 
+- STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits
+https://foivospar.github.io/STARCaster/ 
+- Hunyuan Motion 1.0
+https://hunyuan.tencent.com/motion?tabIndex=0 
 ### November 2025
 - We present MotionStream — real-time, long-duration video generation that you can interactively control just by dragging your mouse. All videos here are raw, real-time screen captures without any post-processing. Model runs on a single H100 at 29 FPS and 0.4s latency.
 https://joonghyuk.com/motionstream-web/ 
